@@ -1,6 +1,4 @@
-cpp-sudoku
--solver
-
+CPP Sudoku-Solver
 
 A simple sudoku solver in C++. It uses a backtracking algorithm, that:
 - counts the possible values for each empty cell
